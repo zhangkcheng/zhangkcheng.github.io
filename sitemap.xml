@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhangkcheng.github.io/about/</loc>
+    <loc>/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zhangkcheng.github.io/contact/</loc>
+    <loc>/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zhangkcheng.github.io/credits/</loc>
+    <loc>/credits/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zhangkcheng.github.io/privacy/</loc>
+    <loc>/privacy/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zhangkcheng.github.io/terms/</loc>
+    <loc>/terms/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zhangkcheng.github.io/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://zhangkcheng.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://zhangkcheng.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
